@@ -1,0 +1,37 @@
+<!-- strings.xml -->
+<resources>
+    <string name="app_name">Teeba Store</string>
+    <string name="welcome_message">Welcome to Teeba Medical Store</string>
+    <string name="trusted_brands">Our Trusted Brands</string>
+    <string name="teeba_supplies">Teeba Medical Supplies</string>
+    <string name="links">LINKS</string>
+    <string name="products">Products</string>
+    <string name="contact_us">Contact us</string>
+    <string name="phone">PHONE</string>
+    <string name="phone_number">+963 930 828 132</string>
+    <string name="menu">Menu</string>
+    <string name="cart">Cart</string>
+    <string name="home">Home</string>
+    <string name="contact">Contact</string>
+    <string name="featured_product">Featured Product</string>
+    <string name="our_partners">Our Partners</string>
+    <string name="brand_logo">Brand Logo</string>
+    <string name="about_us">About Us</string>
+    <string name="about_us_text">Teeba Medical Supplies is a leading provider of medical equipment and services...</string>
+    <string name="email">Email</string>
+    <string name="email_address">teebamedicalsyria@gmail.com</string>
+    <string name="contact_info">For inquiries, please contact us at the following numbers or email.</string>
+
+    <!-- إضافات جديدة -->
+    <string name="empty_cart">السلة فارغة</string>
+    <string name="complete_purchase">إتمام الشراء</string>
+    <string name="print_order">طباعة الطلبية</string>
+    <string name="item_removed">تمت إزالة %1$s من السلة</string>
+    <string name="increase_quantity">زيادة الكمية</string>
+    <string name="decrease_quantity">تقليل الكمية</string>
+    <string name="remove_item">إزالة العنصر</string>
+    <string name="quantity">الكمية: %1$d</string>
+    <string name="confirm_remove_item">هل تريد إزالة %1$s من السلة؟</string>
+    <string name="empty_cart_print">السلة فارغة، لا يوجد شيء للطباعة</string>
+    <string name="print_order_success">تمت طباعة الطلبية بنجاح!</string>
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1036950736906",
+    "project_id": "teeba3-4e4f3",
+    "storage_bucket": "teeba3-4e4f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036950736906:android:6147c0fad5bc5e8c5d0ff3",
+        "android_client_info": {
+          "package_name": "com.hax.teeba3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARYfWoAco3Y34_NWsaeWGdLVQ63gfRGvw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

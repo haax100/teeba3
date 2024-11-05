@@ -1,0 +1,25 @@
+<resources>
+    <style name="AppTheme" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/PrimaryColor</item>
+        <item name="colorPrimaryDark">@color/PrimaryDarkColor</item>
+        <item name="colorAccent">@color/AccentColor</item>
+        <item name="android:fontFamily">@font/roboto_regular</item>
+    </style>
+    <style name="ProductTitleText">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">@color/colorOnBackground</item>
+        <item name="android:fontFamily">@font/roboto_bold</item>
+    </style>
+
+    <style name="ProductPriceText">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">@color/colorAccent</item>
+        <item name="android:fontFamily">@font/roboto_bold</item>
+    </style>
+
+    <style name="ProductDescriptionText">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/colorSecondary</item>
+        <item name="android:fontFamily">@font/roboto_regular</item>
+    </style>
+</resources>

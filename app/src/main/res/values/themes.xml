@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.Teeba3" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/PrimaryColor</item>
+        <item name="colorPrimaryVariant">@color/PrimaryDarkColor</item>
+        <item name="colorAccent">@color/AccentColor</item>
+        <item name="android:fontFamily">@font/roboto_regular</item>
+    </style>
+</resources>
